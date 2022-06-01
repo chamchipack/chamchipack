@@ -1,7 +1,6 @@
 ## 안녕하세요! 👋
 #### 세상을 여러 각도에서 다양한 시선으로 탐구하는 조찬익입니다!
-#### Explore the world where I'm living with various perspective. I'm Chanik
-#### 观察世界通过多视角, 我是Chanik。
+
 
 
 ### 나의 기술 
