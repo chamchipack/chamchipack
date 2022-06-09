@@ -11,4 +11,12 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"/>
 
-#### 왼쪽 Organiztion의 양 그림이 항해99 실전프로젝트인 마피양입니다!
+----
+### 항해99 실전프로젝트 마피양 바로가기!
+#### https://github.com/Mafiagame-project/ReactFE
+----
+
+----
+### 개인 블로그 바로가기!
+#### https://velog.io/@fnjels09
+----
